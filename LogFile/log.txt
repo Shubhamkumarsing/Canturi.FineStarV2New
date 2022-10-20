@@ -1,0 +1,11 @@
+﻿FineStar Service started 10/20/2022 11:58:50 AM
+FineStar Service Mode: DAILY
+FineStar Service scheduled to next run after: 0 Days,0 Hours,3 minutes,9 Seconds {0}
+WebService Session end    10/20/2022 11:58:50 AM
+FineStar Service Log:10/20/2022 12:02:00 PM
+FineStar Service Mode: DAILY
+WebClient start    10/20/2022 12:02:00 PM
+Json file save: D:\DisplayFineStarUpdate\Canturi.FineStarV2\JsonData\9a87c2d3-2d4b-45c1-9542-21fd1f544ef1.json
+Successfully Inserting Diamond Procedure
+FineStar Service scheduled to next run after: 0 Days,23 Hours,59 minutes,38 Seconds {0}
+WebService Session end    10/20/2022 12:02:21 PM
